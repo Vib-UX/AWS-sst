@@ -1,0 +1,5 @@
+{
+  "name": "cron-job",
+  "region": "ap-northeast-3",
+  "main": "stacks/index.ts"
+}
